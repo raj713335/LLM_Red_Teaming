@@ -28,3 +28,9 @@ want to run config.yaml file ?
 ```sh
 deepteam run config.yaml
 ```
+
+### code Scanning 
+
+```sh
+deepteam scan .
+```
