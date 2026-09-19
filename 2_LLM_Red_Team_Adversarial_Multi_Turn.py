@@ -1,4 +1,3 @@
-from deepteam.red_teamer import risk_assessment
 from openai import AsyncOpenAI
 
 from deepteam import red_team
