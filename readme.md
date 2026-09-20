@@ -1,4 +1,16 @@
-# Agentic Red Teaming: From Zero to Hero
+<h1 align="center">
+  <a href="https://www.udemy.com/course/agentic-red-teaming-from-zero-to-hero/?referralCode=A014907592D3C1597861">
+    Agentic Red Teaming: From Zero to Hero
+  </a>
+</h1>
+
+<p align="center">
+  Master LLM Red Teaming and Agentic AI Security with DeepTeam: Prompt Injection, Jailbreaks, OWASP and Guardrails
+</p>
+
+<p align="center">
+  <img src="docs/red_team.png" />
+</p> 
 
 
 ## Introduction
